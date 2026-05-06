@@ -11,7 +11,7 @@ Analyze Netflix's catalog of 8,807 titles to identify content patterns and provi
 ## Key Findings
 - Movies dominate (69.6%) but TV Show share is growing rapidly
 - United States leads content production (3,690 titles), India is second (1,046)
-- TV-MA is the most common rating — family content is underrepresented at 13%
+- TV-MA is the most common rating: family content is underrepresented at 13%
 - Content additions peak in December-January and July
 - Most TV shows are single-season
 
@@ -23,7 +23,7 @@ Analyze Netflix's catalog of 8,807 titles to identify content patterns and provi
 5. Leverage documentaries as a cost-effective content category
 
 ## Links
-- **Tableau Dashboard:** [YOUR TABLEAU URL HERE]
+- **Tableau Dashboard:** https://public.tableau.com/app/profile/pallabi.roy.singh/viz/NetflixDataAnalysis_17780033326140/ContentOverview
 - **Notebook:** Available in this repository
 
 ## Author
